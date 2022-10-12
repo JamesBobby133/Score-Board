@@ -1,0 +1,34 @@
+body{
+    margin-top: 20px;
+    text-align: center;
+    background-color: #0b2545;
+    color: white;
+    font-size: 30px;
+    font-family: cursed timer;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+.score {
+    width: 120px;
+    height: 70px;
+    font-size: 50px;
+    border-radius: 5px;
+    background: black;
+    color: rgb(238, 73, 100);
+    position: relative;
+    left: 20px;
+    font-family: cursed timer;
+    padding-top: 20px;
+}
+button{
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    color: whitesmoke;
+    height: 40px;
+    width: 40px;
+    background-color: #0b2545;
+    font-family: cursed timer;
+}
